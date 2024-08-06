@@ -10,9 +10,11 @@ LangChat开源项目: [https://github.com/tycoding/langchat](https://github.com/
 - React
 - Tailwind
 
-LangChat产品开源不易，此官网不再提供免费源码，如果想要搭建这种官网的朋友，可以联系我获取源码。
+基于React生态，支持MDX语法，文档使用Markdown文件渲染。
 
-可以提供技术支持，教你搭建同款炫酷的产品官网！！！
+LangChat产品开源不易，此官网不再提供免费源码，**如果想要获取此源码可以联系我**。
+
+可以提供技术支持，提供Docker一件部署脚本，教你搭建同款炫酷的产品官网！！！
 
 添加微信：LangChainChat（备注：LangChat官网）
 
